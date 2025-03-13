@@ -1,0 +1,85 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana;
+}
+
+.utama {
+    margin: 0px;
+    padding-bottom: 20px;
+}
+.button {
+    text-align: center;
+    background-color: #282B30;
+    width: 33.33%;
+    height: 40px;
+}
+
+.html {
+    background-color: #D9EEE1;
+}
+.css {
+    background-color: #FFF4A3;
+}
+.java{
+    background-color: #f3ecea;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.foto{
+    width: 550px;
+    height: 250px;
+}
+
+h1 {
+    color: black;
+}
+
+table {
+    width: 100%;
+    margin: 0px;
+}
+
+td {
+    padding : 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    outline: none;
+    border: none;
+    margin-top: 20px;
+    height: 40px;
+    width: 250px;
+    border-radius: 9999px;
+    color: white;
+    font-weight: bolder;
+}
+
+button.hijau {
+    background-color: #04AA6D;
+}
+
+button.hitam {
+    background-color: black;
+}
+
+button.pink {
+    background-color: #FFc0C7;
+    color: black;
+}
+
+.button:hover {
+    background-color: #1E2124;
+}
+
+.button:active {
+    background-color: #7289DA;
+}
+
+
