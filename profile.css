@@ -1,0 +1,44 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-image: url('./image/cat.jpg');
+    background-size: 20%;
+}
+.tabel{
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+}
+.pertama td{
+    border-radius: 10px;
+    background-color: cadetblue ;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+    font-size: large;
+}
+.gambar {
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
+.warna {
+    color: red;
+    margin: 0%;
+}
+.jepang{
+    list-style-type: hiragana;
+}
+.margin {
+    margin: 0%;
+}
+a:hover.ukm  {
+    color: white;
+}
+.ukm {
+    text-decoration: none;
+    color: red;
+}
